@@ -43,5 +43,4 @@ def naming_system
   # HoH all the way to Species!
   kingdom = {:label=>"Phylum", :Class=>{:label=>"Order", :Order=>{}, :Family=>{}}, :Genus=>{:label=>"Species", :Phylum=>{}, :Kingdom=>{}}}
   
-return kingdom
 end
